@@ -113,7 +113,7 @@ Wandering Letters — це модель яка ілюструє, як побуд
 
 <table>
 <thead>
-<tr><th>**left-margin**; **right-margin** – 6</th><th>**left-margin** - 6; **right-margin**</th></tr>
+<tr><th>left-margin; right-margin – 6</th><th>left-margin - 6; right-margin</th></tr>
 </thead>
 <tbody>
 <tr><td>450</td><td>414</td></tr>
